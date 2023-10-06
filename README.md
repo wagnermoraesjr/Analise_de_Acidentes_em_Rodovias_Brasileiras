@@ -130,6 +130,6 @@ Para enriquecer ainda mais essa análise, iremos utilizar também os **Dados dos
 **`velocidade_pesado`**: Velocidade da Rodovia veículos pesados.
 
 <br><br>
-**Abrir o Notebook no Google Colab:** [Análise de Acidentes em Rodovias Brasileiras](https://colab.research.google.com/drive/1Y2-SL2BUXCNNvTuGnd7vxZugkYVELcQV?usp=drive_link)
+**Abrir o Notebook no Google Colab:** [Análise de Acidentes em Rodovias Brasileiras](https://colab.research.google.com/drive/13DR7wKjoCGPBQF--fq1gpvcm7fgZZoHW?usp=drive_link)
 
 **Baixar o Notebook:** [Análise de Acidentes em Rodovias Brasileiras](https://github.com/wagnermoraesjr/Analise_de_Acidentes_em_Rodovias_Brasileiras/raw/main/Projeto_Analise_dos_Acidentes_em_Rodovias_Brasileiras_github.ipynb)
